@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU');
+@import url('https://fonts.googleapis.com/css2?family=Caveat');
+@import url('https://fonts.googleapis.com/css2?family=Puppies+Play');
+
+
+body {
+    margin: 0px;
+    background-color: rgb(224,240,227);
+}
+
+div {
+    border: 5px solid rgb(184,216,190);
+    background-color: rgb(232,244,234);
+    width: 500px;
+    height: 400px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+span {
+
+}
+
+p {
+    width: 500px;
+    height: 500px;
+    margin-left: 30px;
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Caveat';
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 8px;
+}
+
+h1 {
+    width: 100%;
+    background-color: rgb(167,196,172);
+    color: rgb(241, 249, 242);
+    height: 60px;
+    text-align: center;
+    vertical-align: center;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    border: 8px solid rgb(184,216,190);
+    padding: 20px 20px;
+    background-color: rgb(232,244,234);
+    border-radius: 20px;
+    font-family: 'Caveat';
+    font-size: 30px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 160;
+}
+
+.comment {
+    color: auto;
+}
+
+a {
+    border: 2px solid rgb(200,225,204);
+    background-color: rgb(200,225,204);
+    color: white;
+    border-radius: 80px;
+    padding: 5px;
+    text-decoration: none;
+    font-family: 'Caveat';
+    font-size: 20px;
+    font-weight: bold;
+}
