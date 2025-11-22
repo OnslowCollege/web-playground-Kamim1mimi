@@ -5,12 +5,12 @@
 
 body {
     margin: 0px;
-    background-color: rgb(224,240,227);
+    background-color: rgb(245,220,224);
 }
 
 div {
-    border: 5px solid rgb(184,216,190);
-    background-color: rgb(232,244,234);
+    border: 5px solid rgb(236,189,196);
+    background-color: rgb(249,234,237);
     width: 500px;
     height: 400px;
     margin-left: 30px;
@@ -39,7 +39,7 @@ p {
 
 h1 {
     width: 100%;
-    background-color: rgb(167,196,172);
+    background-color: rgb(	228,160,183);
     color: rgb(241, 249, 242);
     height: 60px;
     text-align: center;
@@ -49,9 +49,9 @@ h1 {
 }
 
 h2 {
-    border: 8px solid rgb(184,216,190);
+    border: 8px solid rgb(236,189,196);
     padding: 20px 20px;
-    background-color: rgb(232,244,234);
+    background-color: rgb(249,234,237);
     border-radius: 20px;
     font-family: 'Caveat';
     font-size: 30px;
@@ -67,8 +67,8 @@ h2 {
 }
 
 a {
-    border: 2px solid rgb(200,225,204);
-    background-color: rgb(200,225,204);
+    border: 0px solid rgb(200,225,204);
+    background-color: rgb(236,189,196);
     color: white;
     border-radius: 80px;
     padding: 5px;
@@ -76,4 +76,32 @@ a {
     font-family: 'Caveat';
     font-size: 20px;
     font-weight: bold;
+    margin-left: 2px;
+}
+
+img {
+    width: 90%;
+    float: center;
+    vertical-align: center;
+}
+
+.margin {
+    margin-left: 10px;
+}
+
+.no-bottom {
+    margin-bottom: 0px;
+}
+
+.block {
+    display: block;
+    background-color: rgb(245,220,224);
+    height: 20px;
+    margin-top: -20px;
+    text-align: left;
+}
+
+.small-margin {
+    margin-bottom: 16px;
+    margin-top: 50px;
 }
